@@ -17,9 +17,9 @@ To Install and test the application, please follow the steps below:
  - maven 3.0.1~
  - mysql 
  
- # 👨🏻‍💻 build-status ⏳
+ # 💻 build-status ⏳
 
-## continues build 🏗
+## 🏗 Continues build 
  ![Java CI with Maven](https://github.com/y-akhrif/blog-springBoot-angular-api/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 
