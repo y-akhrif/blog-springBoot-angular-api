@@ -1,3 +1,5 @@
+# blog-springBoot-angular-api
+
 To Install and test the application, please follow the steps below:
 1- create mySQL database with name blogdb
 4- Optional: you can run the script $_BASE_DIRE_\blog-service\src\main\resources\static\data.sql to create the table with the insert. 
