@@ -19,7 +19,8 @@ To Install and test the application, please follow the steps below:
  
  # 💻 build-status ⏳
 
-## 🏗 Continues build 
+# 🏗 Continuous build 
  ![Java CI with Maven](https://github.com/y-akhrif/blog-springBoot-angular-api/workflows/Java%20CI%20with%20Maven/badge.svg)
 
+# 🌚 Nightly build 
 
